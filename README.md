@@ -65,7 +65,7 @@ This section is particularly powerful and includes:
 ## Installation & Requirements
 
  - **Need Jailbroken/Devkit/Testkit console**
- - **GoldHen (minimal 2026 update) for jailbroken console**
+ - **GoldHen (minimum an 2026 update) for jailbroken console**
 
 ### Installation Steps
 
