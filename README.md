@@ -78,7 +78,7 @@ This section is particularly powerful and includes:
 2. **Place the GSC File**  
    - Open **FileZilla** and connect to your PS4.  
    - Navigate to `/data/667injector/bo3injector/`  
-   - Place your mod menu file in this folder and **rename it to `667zm.gscc`**
+   - Place your mod menu file in this folder
 
 3. **Inject the Menu**  
    - Launch **Black Ops 3**.  
