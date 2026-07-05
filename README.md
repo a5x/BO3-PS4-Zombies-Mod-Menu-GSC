@@ -69,11 +69,11 @@ This section is particularly powerful and includes:
 
 ### Installation Steps
 
+   **Note:** If you already have your own GSC injector, you can skip all of these steps
+
 1. **Injector Setup**  
    Go to the [BO3 PS4 Auto Injector](https://github.com/a5x/BO3-PS4-Mod-Menu-GSC-Injector) repository and download the injector.  
    Follow the installation instructions provided in that repo.  
-
-   **Note:** If you already have your own GSC injector, you can skip this step.
 
 2. **Place the GSC File**  
    - Open **FileZilla** and connect to your PS4.  
